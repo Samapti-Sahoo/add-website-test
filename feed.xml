@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Sampati Test Website</title>
+        <link>https://example.com/</link>
+        <description>Fictional updates for testing the Add Website feature.</description>
+        <language>en-us</language>
+
+        <item>
+            <title>Demo Update One</title>
+            <link>https://example.com/demo-update-one</link>
+            <description>This is fictional content for RSS feed testing.</description>
+        </item>
+
+        <item>
+            <title>Demo Update Two</title>
+            <link>https://example.com/demo-update-two</link>
+            <description>This is another fictional update for testing.</description>
+        </item>
+
+        <item>
+            <title>Demo Update Three</title>
+            <link>https://example.com/demo-update-three</link>
+            <description>This is a third fictional update.</description>
+        </item>
+    </channel>
+</rss>
