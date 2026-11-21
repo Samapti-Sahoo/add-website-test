@@ -2,25 +2,32 @@
 <rss version="2.0">
     <channel>
         <title>Sampati Test Website</title>
-        <link>https://example.com/</link>
-        <description>Fictional updates for testing the Add Website feature.</description>
+        <link>https://samapti-sahoo.github.io/add-website-test/</link>
+        <description>Demo RSS feed for testing the Add Website feature.</description>
         <language>en-us</language>
 
         <item>
-            <title>Demo Update One</title>
-            <link>https://example.com/demo-update-one</link>
-            <description>This is fictional content for RSS feed testing.</description>
+            <title>DEMO: Looking for a React developer for an MVP project</title>
+            <link>https://samapti-sahoo.github.io/add-website-test/#demo-lead</link>
+            <description>
+                A sample startup is looking to hire a freelance React developer
+                to build its MVP. Required skills include React, REST API
+                integration, and frontend development. Indicative test budget:
+                $2500. The project is marked as a demo and is not a real hiring
+                request. This post is created only for software testing.
+            </description>
+            <pubDate>Sat, 21 Nov 2026 09:00:00 GMT</pubDate>
         </item>
 
         <item>
             <title>Demo Update Two</title>
-            <link>https://example.com/demo-update-two</link>
+            <link>https://samapti-sahoo.github.io/add-website-test/#demo-update-two</link>
             <description>This is another fictional update for testing.</description>
         </item>
 
         <item>
             <title>Demo Update Three</title>
-            <link>https://example.com/demo-update-three</link>
+            <link>https://samapti-sahoo.github.io/add-website-test/#demo-update-three</link>
             <description>This is a third fictional update.</description>
         </item>
     </channel>
